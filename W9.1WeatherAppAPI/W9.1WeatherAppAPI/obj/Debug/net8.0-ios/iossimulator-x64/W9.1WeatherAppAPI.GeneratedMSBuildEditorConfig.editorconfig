@@ -1,0 +1,49 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = W9._1WeatherAppAPI
+build_property.ProjectDir = C:\Sheridan\2024Winter\SEMESTER 4\PROG32356 - .NET Technologies using C#\Module5\Week9\W9.1WeatherAppAPI\W9.1WeatherAppAPI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Sheridan/2024Winter/SEMESTER 4/PROG32356 - .NET Technologies using C\#/Module5/Week9/W9.1WeatherAppAPI/W9.1WeatherAppAPI/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = W9._1WeatherAppAPI.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Sheridan/2024Winter/SEMESTER 4/PROG32356 - .NET Technologies using C\#/Module5/Week9/W9.1WeatherAppAPI/W9.1WeatherAppAPI/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = W9._1WeatherAppAPI.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Sheridan/2024Winter/SEMESTER 4/PROG32356 - .NET Technologies using C\#/Module5/Week9/W9.1WeatherAppAPI/W9.1WeatherAppAPI/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = W9._1WeatherAppAPI.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Sheridan/2024Winter/SEMESTER 4/PROG32356 - .NET Technologies using C\#/Module5/Week9/W9.1WeatherAppAPI/W9.1WeatherAppAPI/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = W9._1WeatherAppAPI.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Sheridan/2024Winter/SEMESTER 4/PROG32356 - .NET Technologies using C\#/Module5/Week9/W9.1WeatherAppAPI/W9.1WeatherAppAPI/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = W9._1WeatherAppAPI.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml

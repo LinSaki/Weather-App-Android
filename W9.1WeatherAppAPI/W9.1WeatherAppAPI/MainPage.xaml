@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="W9._1WeatherAppAPI.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout x:Name="stack" BackgroundColor="{StaticResource Primary}">
+
+            <Label x:Name="CityLbl" 
+               HorizontalOptions="Center" 
+               Margin="10" 
+               FontSize="20"/>
+
+            <Label x:Name="TemperatureLbl" 
+               HorizontalOptions="Center" 
+               Margin="10" 
+               FontSize="50"/>
+
+            <Label x:Name="ConditionsLbl" 
+               HorizontalOptions="Center" 
+               Margin="10" 
+               FontSize="20"/>
+
+            <Image x:Name="WeatherImg"
+                WidthRequest="200"
+                HeightRequest="200"
+                HorizontalOptions="Center"
+                Margin="10"/>
+
+            <Label x:Name="EnterCityLbl" 
+               HorizontalOptions="Center" 
+               Margin="10" 
+               FontSize="20"/>
+            
+            <!--DIY: ask user to enter city-->
+            <Entry x:Name="CityEntry"
+               Placeholder="Enter city name"
+               HorizontalOptions="Center"
+               Margin="10" 
+               FontSize="20" />
+
+            <Button x:Name="GetWeatherBtn" 
+                Text="Get Weather" 
+                VerticalOptions="End"
+                Margin="20"
+                Clicked="OnGetWeatherBtnClicked" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
